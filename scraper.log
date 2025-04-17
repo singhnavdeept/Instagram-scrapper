@@ -1,4 +1,27 @@
-2025-04-18 00:34:11,142 - INFO - Starting OSINT Comment Search for Instagram User: leanbeefpatty
-2025-04-18 00:34:11,143 - INFO - Processing query 1: "leanbeefpatty" site:instagram.com
-2025-04-18 00:34:11,143 - INFO - Searching: '"leanbeefpatty" site:instagram.com' - Page 1/2
-2025-04-18 00:34:11,584 - WARNING - No result blocks found for query '"leanbeefpatty" site:instagram.com', page 1. Saving HTML.
+2025-04-18 00:43:44,032 - INFO - Script started. Target: leanbeefpatty
+2025-04-18 00:43:44,033 - INFO - Processing query 1: "leanbeefpatty" site:instagram.com
+2025-04-18 00:43:44,033 - INFO - Searching: '"leanbeefpatty" site:instagram.com' - Page 1/1
+2025-04-18 00:43:44,707 - INFO - Request URL: https://www.google.com/search?q=%22leanbeefpatty%22+site%3Ainstagram.com&start=0&hl=en&num=10&filter=0
+2025-04-18 00:43:44,707 - INFO - Response Status Code: 200
+2025-04-18 00:43:44,720 - WARNING - No result blocks found for query '"leanbeefpatty" site:instagram.com', page 1 using current selectors. Saving HTML.
+2025-04-18 00:43:44,725 - INFO - Saved debug HTML to: debug_page_leanbeefpatty_siteinstagram.com_1.html
+2025-04-18 00:43:44,726 - INFO - Query 1 finished. Found 0 results, 0 new unique.
+2025-04-18 00:43:44,726 - INFO - Sleeping for 27.02 seconds before next query
+2025-04-18 00:44:11,749 - INFO - Processing query 2: from:leanbeefpatty site:instagram.com
+2025-04-18 00:44:11,749 - INFO - Searching: 'from:leanbeefpatty site:instagram.com' - Page 1/1
+2025-04-18 00:44:12,054 - INFO - Request URL: https://www.google.com/search?q=from%3Aleanbeefpatty+site%3Ainstagram.com&start=0&hl=en&num=10&filter=0
+2025-04-18 00:44:12,054 - INFO - Response Status Code: 200
+2025-04-18 00:44:12,057 - WARNING - No result blocks found for query 'from:leanbeefpatty site:instagram.com', page 1 using current selectors. Saving HTML.
+2025-04-18 00:44:12,060 - INFO - Saved debug HTML to: debug_page_fromleanbeefpatty_siteinstagram.com_1.html
+2025-04-18 00:44:12,060 - INFO - Query 2 finished. Found 0 results, 0 new unique.
+2025-04-18 00:44:12,060 - INFO - Sleeping for 48.46 seconds before next query
+2025-04-18 00:45:00,525 - INFO - Processing query 3: "leanbeefpatty" commented on site:instagram.com
+2025-04-18 00:45:00,525 - INFO - Searching: '"leanbeefpatty" commented on site:instagram.com' - Page 1/1
+2025-04-18 00:45:00,842 - INFO - Request URL: https://www.google.com/search?q=%22leanbeefpatty%22+commented+on+site%3Ainstagram.com&start=0&hl=en&num=10&filter=0
+2025-04-18 00:45:00,842 - INFO - Response Status Code: 200
+2025-04-18 00:45:00,850 - WARNING - No result blocks found for query '"leanbeefpatty" commented on site:instagram.com', page 1 using current selectors. Saving HTML.
+2025-04-18 00:45:00,854 - INFO - Saved debug HTML to: debug_page_leanbeefpatty_commented_on_siteinstagram.com_1.html
+2025-04-18 00:45:00,855 - INFO - Query 3 finished. Found 0 results, 0 new unique.
+2025-04-18 00:45:00,855 - INFO - All queries processed.
+2025-04-18 00:45:00,855 - WARNING - No potential links found for 'leanbeefpatty' across all queries with current selectors.
+2025-04-18 00:45:00,855 - INFO - Script finished.
