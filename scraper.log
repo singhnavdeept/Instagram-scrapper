@@ -1,0 +1,4 @@
+2025-04-18 00:34:11,142 - INFO - Starting OSINT Comment Search for Instagram User: leanbeefpatty
+2025-04-18 00:34:11,143 - INFO - Processing query 1: "leanbeefpatty" site:instagram.com
+2025-04-18 00:34:11,143 - INFO - Searching: '"leanbeefpatty" site:instagram.com' - Page 1/2
+2025-04-18 00:34:11,584 - WARNING - No result blocks found for query '"leanbeefpatty" site:instagram.com', page 1. Saving HTML.
